@@ -28,6 +28,8 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <a href="https://github.com/sid-shnkar/Vehicle-number-plate-detection-recognition">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sid-shnkar&repo=Vehicle-number-plate-detection-recognition&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Vehicle-number-plate-detection-recognition" />
 </a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sid-shnkar&show_icons=true&theme=radical&count_private=true)
 <!--
 **sid-shnkar/sid-shnkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
