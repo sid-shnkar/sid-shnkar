@@ -47,9 +47,6 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=nest.js&svgfill=028dd1">
 </a>
 <a href="https://github.com/sid-shnkar">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=express&svgfill=028dd1">
-</a>
-<a href="https://github.com/sid-shnkar">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=659b60">
 </a>
 <a href="https://github.com/sid-shnkar">
