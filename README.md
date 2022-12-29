@@ -5,6 +5,7 @@
 
 I am a passionate self-taught software developer and currently pursuing my B.Tech in CSE from IIT Dharwad. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I am a self-motivated person and looking further to enhance my skills and knowledge in the best ways I can do.
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## 📫 Like to meet me?
 
@@ -12,7 +13,6 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 <a href="https://calendly.com/sidshnkar/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="320" height="320" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sid-shnkar&layout=compact&langs_count=8)](https://github.com/sid-shnkar/sid-shnkar)
 
