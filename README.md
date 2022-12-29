@@ -36,14 +36,20 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <p align="left">  
 <a href="https://github.com/sid-shnkar">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
- </a>
+</a>
 <a href="https://github.com/sid-shnkar">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=2d79c7">
 </a>
-  <a href="https://github.com/sid-shnkar">
+<a href="https://github.com/sid-shnkar">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=8ed5fa">
 </a>
- <a href="https://github.com/sid-shnkar">
+<a href="https://github.com/sid-shnkar">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=nest.js&svgfill=028dd1">
+</a>
+<a href="https://github.com/sid-shnkar">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=express.js&svgfill=028dd1">
+</a>
+<a href="https://github.com/sid-shnkar">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=659b60">
 </a>
 <a href="https://github.com/sid-shnkar">
