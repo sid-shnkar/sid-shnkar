@@ -38,25 +38,25 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
  </a>
 <a href="https://github.com/sid-shnkar">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=2d79c7">
 </a>
   <a href="https://github.com/sid-shnkar">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=8ed5fa">
 </a>
  <a href="https://github.com/sid-shnkar">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=659b60">
 </a>
 <a href="https://github.com/sid-shnkar">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ember.js&svgfill=df5c43">  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=df5c43">  
 </a>
 <a href="https://github.com/sid-shnkar">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html&svgfill=cd6799">
 </a>
 <a href="https://github.com/sid-shnkar">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=f6df1c">
 </a>
 <a href="https://github.com/sid-shnkar">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=028dd1">
 </a>
 <a href="https://github.com/sid-shnkar">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
