@@ -1,4 +1,4 @@
-## Hi there, I'm Siddharth Shankar 👋 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+## Hi there, I'm Siddharth Shankar 👋😄
 
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://github.com/sid-shnkar/)](https://github.com/sid-shnkar/)
 ![](https://visitor-badge.glitch.me/badge?page_id=sid-shnkar.sid-shnkar)
