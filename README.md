@@ -30,7 +30,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sid-shnkar&repo=Vehicle-number-plate-detection-recognition&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Vehicle-number-plate-detection-recognition" />
 </a>
 
-## 💻 Technologies & Tools
+## 🔧 Technologies & Tools
 
 
 <p align="left">  
@@ -56,7 +56,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=HTML5&svgfill=f6df1c">
 </a>
 <a href="https://github.com/sid-shnkar">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=028dd1">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=028dd1">
 </a>
 <a href="https://github.com/sid-shnkar">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
