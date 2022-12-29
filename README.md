@@ -50,7 +50,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=df5c43">  
 </a>
 <a href="https://github.com/sid-shnkar">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=linux&svgfill=cd6799">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=HTML5&svgfill=cd6799">
 </a>
 <a href="https://github.com/sid-shnkar">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=f6df1c">
