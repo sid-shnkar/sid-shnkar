@@ -30,6 +30,40 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sid-shnkar&repo=Vehicle-number-plate-detection-recognition&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Vehicle-number-plate-detection-recognition" />
 </a>
 
+## Technologies & Tools
+
+
+<p align="left">  
+<a href="https://github.com/sid-shnkar">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+ </a>
+<a href="https://github.com/sid-shnkar">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
+</a>
+  <a href="https://github.com/sid-shnkar">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa">
+</a>
+ <a href="https://github.com/sid-shnkar">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
+</a>
+<a href="https://github.com/sid-shnkar">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ember.js&svgfill=df5c43">  
+</a>
+<a href="https://github.com/sid-shnkar">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
+</a>
+<a href="https://github.com/sid-shnkar">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+</a>
+<a href="https://github.com/sid-shnkar">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
+</a>
+<a href="https://github.com/sid-shnkar">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
+</a>
+</p>
+
+
 <!--
 **sid-shnkar/sid-shnkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
