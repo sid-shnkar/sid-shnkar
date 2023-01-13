@@ -70,15 +70,15 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/sid-shnkar/Pizza-Delivery-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sid-shnkar&repo=Pizza-Delivery-App&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Pizza-Delivery-App" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sid-shnkar&repo=Pizza-Delivery-App&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Pizza-Delivery-App" />
 </a>
 
 <a href="https://github.com/sid-shnkar/Airline-Management-System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sid-shnkar&repo=Airline-Management-System&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Airline-Management-System" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sid-shnkar&repo=Airline-Management-System&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Airline-Management-System" />
 </a>
 
 <a href="https://github.com/sid-shnkar/Vehicle-number-plate-detection-recognition">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sid-shnkar&repo=Vehicle-number-plate-detection-recognition&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Vehicle-number-plate-detection-recognition" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sid-shnkar&repo=Vehicle-number-plate-detection-recognition&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Vehicle-number-plate-detection-recognition" />
 </a>
 
 <!--
