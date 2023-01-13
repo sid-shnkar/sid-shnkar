@@ -14,7 +14,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="430" height="250" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sid-shnkar&layout=compact&langs_count=8)](https://github.com/sid-shnkar/sid-shnkar)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sid-shnkar&layout=compact&langs_count=8)](https://github.com/sid-shnkar/sid-shnkar)
 
 ## 🔧 Technologies & Tools
 
