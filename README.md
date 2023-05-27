@@ -1,6 +1,6 @@
 ## Hi there, I'm Siddharth Shankar 👋💻⚡
 
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://github.com/sid-shnkar/)](https://siddharth-shankar.netlify.app)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://github.com/sid-shnkar/)](https://siddharthshankar.netlify.app)
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=sid-shnkar.sid-shnkar) -->
 
 I am a passionate self-taught software developer and currently pursuing my B.Tech in CSE from IIT Dharwad. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I am a self-motivated person and looking further to enhance my skills and knowledge in the best ways I can do.
