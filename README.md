@@ -68,8 +68,8 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 </p>
 
 ## 🗂️ Highlight Projects
-<a href="https://github.com/sid-shnkar/nodejs-jenkins-aws-ci-cd">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sid-shnkar&repo=nodejs-jenkins-aws-ci-cd&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="nodejs-jenkins-aws-ci-cd" />
+<a href="https://github.com/sid-shnkar/TodaySphere-NodeJS-App-Devops">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sid-shnkar&repo=TodaySphere-NodeJS-App-Devops&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="TodaySphere-NodeJS-App-Devops" />
 </a>
 
 <a href="https://github.com/sid-shnkar/Pizza-Delivery-App">
