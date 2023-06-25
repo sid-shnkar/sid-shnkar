@@ -72,12 +72,12 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sid-shnkar&repo=TodaySphere-NodeJS-App-Devops&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="TodaySphere-NodeJS-App-Devops" />
 </a>
 
-<a href="https://github.com/sid-shnkar/Pizza-Delivery-App">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sid-shnkar&repo=Pizza-Delivery-App&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Pizza-Delivery-App" />
+<a href="https://github.com/sid-shnkar/Konnecto-MERN-Stack-App-with-CI-CD">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sid-shnkar&repo=Konnecto-MERN-Stack-App-with-CI-CD&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Konnecto-MERN-Stack-App-with-CI-CD" />
 </a>
 
-<a href="https://github.com/sid-shnkar/Airline-Management-System">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sid-shnkar&repo=Airline-Management-System&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Airline-Management-System" />
+<a href="https://github.com/sid-shnkar/Pizza-Delivery-App">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sid-shnkar&repo=Pizza-Delivery-App&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Pizza-Delivery-App" />
 </a>
 
 <a href="https://github.com/sid-shnkar/Vehicle-number-plate-detection-recognition">
