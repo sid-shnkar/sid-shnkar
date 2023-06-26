@@ -76,8 +76,8 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sid-shnkar&repo=Konnecto-MERN-Stack-App-with-CI-CD&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Konnecto-MERN-Stack-App-with-CI-CD" />
 </a>
 
-<a href="https://github.com/sid-shnkar/Pizza-Delivery-App">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sid-shnkar&repo=Pizza-Delivery-App&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Pizza-Delivery-App" />
+<a href="https://github.com/sid-shnkar/PizzaGo-NestJS-App">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sid-shnkar&repo=PizzaGo-NestJS-App&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="PizzaGo-NestJS-App" />
 </a>
 
 <a href="https://github.com/sid-shnkar/Vehicle-number-plate-detection-recognition">
