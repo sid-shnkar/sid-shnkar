@@ -4,7 +4,7 @@
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=sid-shnkar.sid-shnkar) -->
 
 
-[<img height="30" src="https://img.shields.io/badge/Porfolio-orange.svg?&style=for-the-badge&logo=netlify&logoColor=white" />][portfolio]
+[<img height="30" src="https://img.shields.io/badge/Portfolio-orange.svg?&style=for-the-badge&logo=netlify&logoColor=white" />][portfolio]
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img height="30" src="https://img.shields.io/badge/medium-gr.svg?&style=for-the-badge&logo=medium&logoColor=white" />][medium]
 
