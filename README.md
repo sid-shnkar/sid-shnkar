@@ -1,7 +1,12 @@
 ## Hi there, I'm Siddharth Shankar 👋💻⚡
-
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://github.com/sid-shnkar/)](https://siddharthshankar.netlify.app)
+<!--
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://github.com/sid-shnkar/)](https://siddharthshankar.netlify.app) -->
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=sid-shnkar.sid-shnkar) -->
+
+
+[<img height="30" src="https://img.shields.io/badge/Porfolio-orange.svg?&style=for-the-badge&logo=netlify&logoColor=white" />][portfolio]
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img height="30" src="https://img.shields.io/badge/Hackerrank-gr.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />][medium]
 
 I am a passionate self-taught software developer and currently pursuing my B.Tech in CSE from IIT Dharwad. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I am a self-motivated person and looking further to enhance my skills and knowledge in the best ways I can do.
 
@@ -83,6 +88,10 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <a href="https://github.com/sid-shnkar/Vehicle-number-plate-detection-recognition">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sid-shnkar&repo=Vehicle-number-plate-detection-recognition&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Vehicle-number-plate-detection-recognition" />
 </a>
+
+[portfolio]: https://siddharthshankar.netlify.app/
+[linkedin]: https://www.linkedin.com/in/siddharth-shankar-9b3749220/
+[medium]: https://medium.com/@sidshnkar
 
 <!--
 **sid-shnkar/sid-shnkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
