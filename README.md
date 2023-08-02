@@ -4,9 +4,10 @@
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=sid-shnkar.sid-shnkar) -->
 
 
-[<img height="30" src="https://img.shields.io/badge/Portfolio-orange.svg?&style=for-the-badge&logo=netlify&logoColor=white" />][portfolio]
+[<img height="30" src="https://img.shields.io/badge/Portfolio-red.svg?&style=for-the-badge&logo=netlify&logoColor=white" />][portfolio]
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img height="30" src="https://img.shields.io/badge/medium-gr.svg?&style=for-the-badge&logo=medium&logoColor=white" />][medium]
+[<img height="30" src="https://img.shields.io/badge/Leetcode-orange.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />][leetcode]
 
 I am a passionate self-taught software developer and currently pursuing my B.Tech in CSE from IIT Dharwad. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I am a self-motivated person and looking further to enhance my skills and knowledge in the best ways I can do.
 
@@ -92,6 +93,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 [portfolio]: https://siddharthshankar.netlify.app/
 [linkedin]: https://www.linkedin.com/in/siddharth-shankar-9b3749220/
 [medium]: https://medium.com/@sidshnkar
+[leetcode]: https://leetcode.com/sidshnkar/
 
 <!--
 **sid-shnkar/sid-shnkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
