@@ -71,6 +71,18 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <a href="https://github.com/sid-shnkar">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&svgfill=028dd1">
 </a>
+<a href="https://github.com/sid-shnkar">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&svgfill=028dd1">
+</a>
+<a href="https://github.com/sid-shnkar">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jenkins&svgfill=028dd1">
+</a>
+<a href="https://github.com/sid-shnkar">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=kubernetes&svgfill=028dd1">
+</a>
+<a href="https://github.com/sid-shnkar">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postman&svgfill=028dd1">
+</a>
 </p>
 
 ## 🗂️ Highlight Projects
