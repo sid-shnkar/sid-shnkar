@@ -69,7 +69,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=028dd1">
 </a>
 <a href="https://github.com/sid-shnkar">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&svgfill=028dd1">
 </a>
 </p>
 
